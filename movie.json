@@ -1,0 +1,53 @@
+[ {
+    "name": "Howls Moving Castle",
+    "date": "2004",
+    "sposter": "img/Howlsmovingcastle.png",
+    "bposter": "img/Howlsmovingcastle1.png",
+    "genre" : "Family/Fantasy",
+    "type" : "Movie",
+    "url": "Howlsmovingcastle.html",
+    "trailer": "vid/Howlsmovingcastle.webm"
+},
+{
+    "name": "BBC Sherlock",
+    "date": "2017",
+    "sposter": "img/BBCSherlock.png",
+    "bposter": "img/bbcsherlock1.png",
+    "genre": "Crime",
+    "type":"Series",
+    "url": "BBCSherlock.html",
+    "trailer": "vid/BBCSherlock.webm"
+},
+{
+    "name": "Spirited Away",
+    "date": "2001",
+    "sposter": "img/Spiritedaway.png",
+    "bposter": "img/spiritedaway1.png",
+    "genre":"Family/Fantasy",
+    "type":"Movie",
+    "url": "Spiritedaway.html",
+    "trailer":"vid/Spiritedaway.webm"
+},
+{
+    "name": "Tale of the Nine Tailed",
+    "date": "2020",
+    "sposter": "img/Taleoftheninetale.png",
+    "bposter": "img/taleoftheninetailed1.png",
+    "genre": "Drama",
+    "type":"Series",
+    "url":"Taleoftheninetale.html",
+    "trailer":"vid/taleoftheninetailed.webm"
+},
+{
+    "name": "Transformers",
+    "date": "2007",
+    "sposter": "img/Transformer.png",
+    "bposter": "img/Transformer1.png",
+    "genre": "Sci-fi/Action",
+    "type": "Movie",
+    "url": "Transformer.html",
+    "trailer":"vid/Transformer.webm" 
+}
+
+
+]
